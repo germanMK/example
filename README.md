@@ -1,0 +1,3 @@
+Ejemplo del tutorial ruby.railstutorial.org
+
+En vez de "sample" yo lo llame "example"...
